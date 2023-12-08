@@ -1,0 +1,26 @@
+.productbox {
+  display: flex;
+  gap: 50px;
+  padding: 20px;
+  margin-bottom: 4px;
+}
+.price {
+  display: flex;
+  flex-direction: column;
+}
+.pricefond {
+  color: red;
+  font-size: larger;
+}
+.product-detail-view-img {
+  width: auto;
+  height: 350px;
+  padding: 10px;
+}
+.productdetailbutton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;
+  margin-top: 80px;
+}

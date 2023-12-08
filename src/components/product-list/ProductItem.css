@@ -1,0 +1,15 @@
+.productbox {
+  display: flex;
+  gap: 50px;
+  padding: 20px;
+  margin-bottom: 4px;
+  background-color: white;
+}
+.price {
+  display: flex;
+  flex-direction: column;
+}
+.pricefond {
+  color: red;
+  font-size: larger;
+}

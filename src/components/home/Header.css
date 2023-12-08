@@ -1,0 +1,35 @@
+.css1 {
+  background-color: #2874f0;
+  display: flex;
+  /* flex-direction: row; */
+  align-items: center;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+.css2 {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  width: 100%;
+}
+.flipkardlogo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* background-color: white; */
+}
+.css7 {
+  width: 50%;
+}
+
+input[type="text"] {
+  width: 100%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+  background-color: white;
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+}

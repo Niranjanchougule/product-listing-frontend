@@ -1,0 +1,30 @@
+.filter-container {
+  position: relative;
+  width: 300px;
+  height: 1000px;
+  background-color: #f1f3f6;
+  display: flex;
+  flex-direction: column;
+  /* gap: 5px; */
+  margin-bottom: 5px;
+}
+.padding {
+  padding: 20px;
+  background-color: white;
+}
+.section1 {
+  margin-bottom: 50px;
+}
+.section11 {
+  display: flex;
+  width: 100%;
+  height: 50px;
+  background-color: white;
+  justify-content: space-between;
+  /* padding: 5px; */
+}
+.checkbox {
+  display: flex;
+  gap: 10px;
+  padding: 5px;
+}

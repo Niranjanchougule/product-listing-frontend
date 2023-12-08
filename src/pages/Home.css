@@ -1,0 +1,12 @@
+.category-list {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+.grid-items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}

@@ -1,0 +1,7 @@
+.product-list-page {
+  display: flex;
+  gap: 10px;
+}
+.productList-contanier {
+  flex: 1;
+}

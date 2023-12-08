@@ -1,0 +1,16 @@
+.category-container {
+  background-color: white;
+  border-radius: 5px;
+  width: auto;
+  border: black;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.category-image-container {
+  padding: 20px;
+  height: 200px;
+}
+.show {
+  padding: 10px;
+}
